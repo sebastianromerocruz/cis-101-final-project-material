@@ -21,7 +21,7 @@
 
 ### Part 1: _Installing The Tools You Need_
 
-<!-- TODO -->
+_Coming Soon. Talk to professor if you need help_
 
 ### Part 2: _Getting Stuff Up On Your Screen_
 
@@ -262,6 +262,8 @@ If everything goes smoothly, your site should look like this now:
 
 <sub>**Code Block 7 and Figure 14**: Awesome. Notice that, like the header 1 tag and unlike the paragraph tag, the image tag _does_ place the following tags **below it**.</sub>
 
+You can see the contents of the completed file [**here**](index.html).
+
 ### Part 3: _Homework_
 
 Your homework assignment is very simple: turn your video introduction from the discussion in week 1 into a website using the HTML that we learned today. Your finished HTML file must contain:
@@ -276,4 +278,4 @@ Your homework assignment is very simple: turn your video introduction from the d
 - At least **four** paragraph tags.
 - At least **three** image tags that correctly load actual image files. Please include the image files that you use in your submission.
 
-Once you are finished, go ahead and submit your HTML and image files [**here**]().
+Once you are finished, go ahead and submit your HTML and image files [**here**](https://classes.pace.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?db=195528&grpid=0&isprv=0&bp=0&ou=365894).
