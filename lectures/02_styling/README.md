@@ -13,8 +13,8 @@
 1. [**CSS**](#part-1-css)
 2. [**How CSS Is Written**](#part-2-how-css-is-written)
 3. [**CSS Styling Options**](#part-3-css-styling-options)
-4. [**A Couple More HTML Tags**](#part-3-css-styling-options)
-4. [**Homework**](#)
+4. [**A Couple More HTML Tags**](#part-4-a-couple-more-html-tags)
+4. [**Homework**](#part-5-homework)
 
 ### Part 1: _Introducing CSS_
 
@@ -206,4 +206,4 @@ Your assignment this week is modify your `index.html` file from last week and in
 - At least one instance of **every** CSS styling we discussed in [**class**](#part-3-css-styling-options) today. These can be wherever, so no stress.
 - At least one instance of **each of the four** HTML tags that were introduced [**today**](#part-4-a-couple-more-html-tags).
 
-You can submit your assignment [**here**](). As usual, it is due next Wednesday, 4/5, at 11:59pm.
+You can submit your assignment on [**Classes**](https://classes.pace.edu/d2l/lms/dropbox/user/folders_list.d2l?ou=365894&isprv=0). As usual, it is due next Wednesday, 4/5, at 11:59pm.
