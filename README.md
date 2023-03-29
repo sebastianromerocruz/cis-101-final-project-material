@@ -12,6 +12,7 @@ resource, send me an [**email**](mailto:scruz3@pace.edu) about it with the subje
 ### Lectures
 
 1. [**A Soft Introduction To Web Design**](lectures/01_hello_world/)
+2. [**CSS Styling**](lectures/02_styling/)
 
 ---
 
