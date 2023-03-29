@@ -24,7 +24,7 @@ We left off with our website looking like this:
 
 <sub>**Figure 1**: A subpar experience.</sub>
 
-Which _is_ a website. Back in the 80s and early 90s, this is what websites looked like all the time, before web design as a field really took off. After completely [**homework assignment 01**](https://github.com/sebastianromerocruz/cis-101-final-project-material/tree/main/lectures/01_hello_world#part-3-homework), however, you were probably left with much to be desired. For example, you might've asked yourself:
+Which _is_ a website. Back in the 80s and early 90s, this is what websites looked like all the time, before web design as a field really took off. After completing [**homework assignment 01**](https://github.com/sebastianromerocruz/cis-101-final-project-material/tree/main/lectures/01_hello_world#part-3-homework), however, you were probably left with much to be desired. For example, you might've asked yourself:
 
 - Can I change the font to another style?
 - Can I add colour to the font?
